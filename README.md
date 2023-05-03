@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+TypeScript Vue Nuxtjs NextJs Svelte TailwindCSS Bootstrap Material UI Supabase GraphQL NodeJS Express PostgreSQL Firebase Photoshop XD Figma
+
+          
