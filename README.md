@@ -15,10 +15,6 @@ Since a while, I specialize more in Web Development (Next/React, Node.js, Prisma
 
 <img width="50" alt="mysql" src="https://github.com/DamCodex/DamCodex/assets/85851416/3426f6c4-ab4f-4893-be0a-aa0f02b6cb3c"> <img width="50" alt="sql-server" src="https://github.com/DamCodex/DamCodex/assets/85851416/a9b5fbc0-2257-4993-96ae-e7ad3c0e9134"> <img width="40" alt="aws" src="https://user-images.githubusercontent.com/85851416/235925575-ee281b5b-80f1-46a6-8f76-dcb758f23c63.png"> <img width="35" alt="mongodb" src="https://user-images.githubusercontent.com/85851416/235923917-bd14e005-cecb-42e2-9ec5-24802f7a1d10.png"> <img width="35" alt="supabase" src="https://user-images.githubusercontent.com/85851416/235928096-25c1ed89-0dc9-4715-bbd0-e9f1ec6e4593.png"> <img width="25" alt="firebase" src="https://user-images.githubusercontent.com/85851416/235923099-67736d04-533e-4477-8253-d44ac7cc10e0.png">
 
-### ETL, Data Warehouse, Reporting
+### Reporting, Data Warehouse, ETL
 
-![power-bi](https://github.com/DamCodex/DamCodex/assets/85851416/862c7446-8962-47dd-af26-993a501b2e62) <img width="75" alt="talend" src="https://github.com/DamCodex/DamCodex/assets/85851416/fd4672aa-cb75-466e-8b04-30e05bb6d3bd"> <img width="45" alt="business-objects" src="https://github.com/DamCodex/DamCodex/assets/85851416/d080cdf6-0b1d-41a3-8822-5bd081209a0f">
-
-
-
-
+![power-bi](https://github.com/DamCodex/DamCodex/assets/85851416/862c7446-8962-47dd-af26-993a501b2e62) <img width="45" alt="business-objects" src="https://github.com/DamCodex/DamCodex/assets/85851416/d080cdf6-0b1d-41a3-8822-5bd081209a0f"> <img width="75" alt="talend" src="https://github.com/DamCodex/DamCodex/assets/85851416/fd4672aa-cb75-466e-8b04-30e05bb6d3bd">
