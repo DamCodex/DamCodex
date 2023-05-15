@@ -65,11 +65,12 @@ Since a while, I specialize more in **Web Development** (Next/React, Node.js, Pr
 
 ### Reporting, Data Warehouse, ETL
 
-![power-bi](https://github.com/DamCodex/DamCodex/assets/85851416/862c7446-8962-47dd-af26-993a501b2e62) <img width="45" alt="business-objects" src="https://github.com/DamCodex/DamCodex/assets/85851416/d080cdf6-0b1d-41a3-8822-5bd081209a0f"> <img width="75" alt="talend" src="https://github.com/DamCodex/DamCodex/assets/85851416/fd4672aa-cb75-466e-8b04-30e05bb6d3bd">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damcodex&hide=contribs,prs)
-
-
-## Autre
-
-
+<a href="https://powerbi.microsoft.com/fr-fr/" target="_blank" rel="noreferrer">
+  ![power-bi-logo](https://github.com/DamCodex/DamCodex/assets/85851416/1e097f58-7f7d-4b66-a7eb-d783caea999b)
+</a>
+<a href="https://www.sap.com/france/products/technology-platform/bi-platform.html" target="_blank" rel="noreferrer">
+  <img width="45" alt="business-objects" src="https://github.com/DamCodex/DamCodex/assets/85851416/dcaab6cf-d26b-4999-b1d0-594524cbb018">
+</a>
+<a href="https://www.talend.com/fr/" target="_blank" rel="noreferrer">
+  <img width="75" alt="talend" src="https://github.com/DamCodex/DamCodex/assets/85851416/30264f6a-4f5a-4607-93fe-e2acd8f58934">
+</a>
