@@ -6,7 +6,6 @@ Originally, I have a background more focused on Data Engineer & Business Intelli
 
 Since a while, I specialize more in Web Development (Next/React, Node.js, Prisma, Mongodb) & Data Scraping (Python, Selenium, Srapy, ...).
 
-<img width="35" alt="github" src="https://user-images.githubusercontent.com/85851416/235916979-17bc9741-99a1-44e6-9459-e60c45397179.png">
 
 ### Web Development
 
@@ -18,7 +17,7 @@ Since a while, I specialize more in Web Development (Next/React, Node.js, Prisma
 
 ### ETL, Data Warehouse, Reporting
 
-![power-bi](https://github.com/DamCodex/DamCodex/assets/85851416/00625f2d-d69f-49a7-970c-351efcf3928b) <img width="75" alt="talend" src="https://github.com/DamCodex/DamCodex/assets/85851416/fd4672aa-cb75-466e-8b04-30e05bb6d3bd"> <img width="45" alt="business-objects" src="https://github.com/DamCodex/DamCodex/assets/85851416/d080cdf6-0b1d-41a3-8822-5bd081209a0f">
+![power-bi](https://github.com/DamCodex/DamCodex/assets/85851416/5898d9e8-2f8a-4396-bdcc-ab5ffbb784a4) <img width="75" alt="talend" src="https://github.com/DamCodex/DamCodex/assets/85851416/fd4672aa-cb75-466e-8b04-30e05bb6d3bd"> <img width="45" alt="business-objects" src="https://github.com/DamCodex/DamCodex/assets/85851416/d080cdf6-0b1d-41a3-8822-5bd081209a0f">
 
 
 
