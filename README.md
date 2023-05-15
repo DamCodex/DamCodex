@@ -22,7 +22,7 @@ Since a while, I specialize more in **Web Development** (Next/React, Node.js, Pr
 
 ## Soft Skills
 
-### Web Development
+#### Web Development :
 
 <a href="https://nextjs.org/">
   <img width="35" alt="nextjs" src="https://user-images.githubusercontent.com/85851416/235917861-0a8f84a9-cfb7-40e0-8a02-2fc2c4b6330b.png">
@@ -55,7 +55,7 @@ Since a while, I specialize more in **Web Development** (Next/React, Node.js, Pr
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 </a>
 
-**Database, Cloud Database**
+#### Database, Cloud Database :
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
@@ -73,7 +73,7 @@ Since a while, I specialize more in **Web Development** (Next/React, Node.js, Pr
   <img width="35" alt="supabase" src="https://user-images.githubusercontent.com/85851416/235928096-25c1ed89-0dc9-4715-bbd0-e9f1ec6e4593.png"> 
 </a>
 
-### Reporting, Data Warehouse, ETL
+#### Reporting, Data Warehouse, ETL :
 
 <a href="https://powerbi.microsoft.com/fr-fr/" target="_blank" rel="noreferrer">
     <img width="45" alt="power-bi" src="https://github.com/DamCodex/DamCodex/assets/85851416/2451bd21-2733-4445-9dd8-f25fe6595677"> 
