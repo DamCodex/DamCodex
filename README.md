@@ -1,5 +1,3 @@
-<img width="1280" alt="Bannière YTB" src="https://github.com/DamCodex/DamCodex/assets/85851416/1313ba9e-be27-4f67-a0e0-e80cdf6c2688">
-
 ## Hi there 👋,
 
 I'm `Damien`, passionate about `Entrepreneurship & Computer Development`. I like to challenge myself and discover new things in IT/Tech.
