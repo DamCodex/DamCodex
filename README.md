@@ -74,7 +74,7 @@ Since a while, I specialize more in **Web Development** (Next/React, Node.js, Pr
 ### Reporting, Data Warehouse, ETL
 
 <a href="https://powerbi.microsoft.com/fr-fr/" target="_blank" rel="noreferrer">
-    <img width="45" alt="power-bi" src="https://github.com/DamCodex/DamCodex/assets/85851416/d636d870-8c78-41fe-a9d7-de08f9ea87d6"> 
+    <img width="45" alt="power-bi" src="https://github.com/DamCodex/DamCodex/assets/85851416/2451bd21-2733-4445-9dd8-f25fe6595677"> 
 </a>
 <a href="https://www.sap.com/france/products/technology-platform/bi-platform.html" target="_blank" rel="noreferrer">
   <img width="45" alt="business-objects" src="https://github.com/DamCodex/DamCodex/assets/85851416/dcaab6cf-d26b-4999-b1d0-594524cbb018">
