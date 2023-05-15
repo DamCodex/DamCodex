@@ -1,4 +1,4 @@
-<img width="1280" alt="Bannière Github" src="https://github.com/DamCodex/DamCodex/assets/85851416/9426db3d-cc97-4c61-87eb-55f4e2faa9eb">
+<img width="1280" alt="Bannière Github" src="https://github.com/DamCodex/DamCodex/assets/85851416/f7fa33cb-a978-4666-90b2-4b5a9042957b">
 
 ## Hi there 👋,
 
