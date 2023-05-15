@@ -12,6 +12,8 @@ Since a while, I specialize more in **Web Development** (Next/React, Node.js, Pr
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://fr.linkedin.com/in/damien-lebeau-995892192" height="30" width="40" />
 </a>
 
+## Soft Skills
+
 ### Web Development
 
 <a href="https://nextjs.org/">
