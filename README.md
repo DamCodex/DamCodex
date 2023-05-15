@@ -1,3 +1,6 @@
+![Bannière YTB](https://github.com/DamCodex/DamCodex/assets/85851416/d8b7ec54-4ac5-4bf7-a4f5-a3b6b6e0a892)
+
+
 ### Hi there 👋,
 
 I'm `Damien`, passionate about `Entrepreneurship & Computer Development`. I like to challenge myself and discover new things in IT/Tech.
