@@ -1,4 +1,4 @@
-<img width="1279" alt="Bannière YTB (2)" src="https://github.com/DamCodex/DamCodex/assets/85851416/72cfd4d9-00ab-49e7-84c4-8a0146a3b635">
+<img width="1277" alt="Bannière YTB (3)" src="https://github.com/DamCodex/DamCodex/assets/85851416/7406810e-1a34-4696-acc9-05c7a150df8b">
 
 ## Hi there 👋,
 
