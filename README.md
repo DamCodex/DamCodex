@@ -14,9 +14,8 @@ Since a while, I specialize more in Web Development (Next/React, Node.js, Prisma
 
 ### Database
 
-### ETL, Datawarehouse, Reporting
+### ETL, Data Warehouse, Reporting
 
-![business-objects](https://github.com/DamCodex/DamCodex/assets/85851416/e3f241d5-d9c0-45e3-bde4-e655cc8aa20a)
-
+<img width="33" alt="business-objects" src="https://github.com/DamCodex/DamCodex/assets/85851416/bf1132d7-b7ea-4e23-a9a9-53436f35b3bc">
 
 
