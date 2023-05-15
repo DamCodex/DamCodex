@@ -13,7 +13,7 @@ Since a while, I specialize more in ***Web Development*** (Next/React, Node.js, 
 
 ### Database, Cloud Database
 
-<img width="50" alt="mysql" src="https://github.com/DamCodex/DamCodex/assets/85851416/3426f6c4-ab4f-4893-be0a-aa0f02b6cb3c"> <img width="50" alt="sql-server" src="https://github.com/DamCodex/DamCodex/assets/85851416/a9b5fbc0-2257-4993-96ae-e7ad3c0e9134"> <img width="40" alt="aws" src="https://user-images.githubusercontent.com/85851416/235925575-ee281b5b-80f1-46a6-8f76-dcb758f23c63.png"> <img width="35" alt="mongodb" src="https://user-images.githubusercontent.com/85851416/235923917-bd14e005-cecb-42e2-9ec5-24802f7a1d10.png"> <img width="35" alt="supabase" src="https://user-images.githubusercontent.com/85851416/235928096-25c1ed89-0dc9-4715-bbd0-e9f1ec6e4593.png"> <img width="25" alt="firebase" src="https://user-images.githubusercontent.com/85851416/235923099-67736d04-533e-4477-8253-d44ac7cc10e0.png">
+<img width="50" alt="mysql" src="https://github.com/DamCodex/DamCodex/assets/85851416/3426f6c4-ab4f-4893-be0a-aa0f02b6cb3c"> <img width="60" alt="sql-server" src="https://github.com/DamCodex/DamCodex/assets/85851416/b317053a-6857-4f74-8503-7c9d10638f69"> <img width="40" alt="aws" src="https://user-images.githubusercontent.com/85851416/235925575-ee281b5b-80f1-46a6-8f76-dcb758f23c63.png"> <img width="35" alt="mongodb" src="https://user-images.githubusercontent.com/85851416/235923917-bd14e005-cecb-42e2-9ec5-24802f7a1d10.png"> <img width="35" alt="supabase" src="https://user-images.githubusercontent.com/85851416/235928096-25c1ed89-0dc9-4715-bbd0-e9f1ec6e4593.png"> <img width="25" alt="firebase" src="https://user-images.githubusercontent.com/85851416/235923099-67736d04-533e-4477-8253-d44ac7cc10e0.png">
 
 ### Reporting, Data Warehouse, ETL
 
