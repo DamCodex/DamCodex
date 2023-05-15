@@ -4,7 +4,7 @@ I'm Damien. passionate about Entrepreneurship & Computer Development. I like to 
 
 Originally, I have a background more focused on Data Engineer & Business Intelligence (ETL, SSIS, SSAS, Power BI, Talend, Business Object)
 
-Since a while, I specialize more in Web Development (front/back end) & Data Scraping.
+Since a while, I specialize more in Web Development (front/back end) & Data Scraping (Python, Selenium, Srapy, ...).
 
 
 ### Web Development skills
