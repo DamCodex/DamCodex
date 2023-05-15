@@ -1,13 +1,11 @@
 ### Hi there 👋,
 
-I'm Damien. passionate about Entrepreneurship & Computer Development. I like to challenge myself and discover new things.
+I'm `Damien`, passionate about Entrepreneurship & Computer Development. I like to challenge myself and discover new things.
 
 Originally, I have a background more focused on ***Data Engineer*** & ***Business Intelligence*** (ETL, SSIS, SSAS, Power BI, Talend, Business Object)
 
 Since a while, I specialize more in ***Web Development*** (Next/React, Node.js, Prisma, Mongodb) & ***Data Scraping*** (Python, Selenium, Srapy, ...).
 
-
-`apt-get- update`
 
 ### Web Development
 
