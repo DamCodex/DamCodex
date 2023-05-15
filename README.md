@@ -84,4 +84,4 @@ Since a while, I specialize more in **Web Development** (Next/React, Node.js, Pr
 </a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damcodex&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damcodex&show_icons=true&theme=radical)
