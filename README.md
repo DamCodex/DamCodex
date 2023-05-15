@@ -18,3 +18,5 @@ Since a while, I specialize more in **Web Development** (Next/React, Node.js, Pr
 ### Reporting, Data Warehouse, ETL
 
 ![power-bi](https://github.com/DamCodex/DamCodex/assets/85851416/862c7446-8962-47dd-af26-993a501b2e62) <img width="45" alt="business-objects" src="https://github.com/DamCodex/DamCodex/assets/85851416/d080cdf6-0b1d-41a3-8822-5bd081209a0f"> <img width="75" alt="talend" src="https://github.com/DamCodex/DamCodex/assets/85851416/fd4672aa-cb75-466e-8b04-30e05bb6d3bd">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damcodex&hide=contribs,prs)
