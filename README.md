@@ -2,11 +2,7 @@
 
 I'm Damien. A developer switching to `Web Development`. I've been interested by `Software Development` for a long time, and I've created few applications for side projects that are useful on my daily life.
 
-I discovered coding at the age of `13-14` and coded my first projects in `C`. I followed my first tutorials on the `Site du Zéro` (now OpenClassrooms).
-
-### Hi there 👋,
-
-I'm `Damien`, passionate about `Entrepreneurship & Computer Development`. I like to challenge myself and discover new things in IT/Tech.
+I discovered coding at the age of `13-14` and coded my first projects in `C`. I followed my first tutorials on the `Site du Zéro` (now `OpenClassrooms`).
 
 Originally, I have a background more focused on **Data Engineer & Business Intelligence** (ETL, SSIS, SSAS, Power BI, Talend, Business Object)
 
