@@ -12,7 +12,7 @@ Since a while, I specialize more in **Web Development** (Next/React, Node.js, Pr
 
 ### Connect with me:
 
-- <a href="https://fr.linkedin.com/in/damien-lebeau-995892192" target="blank">Linkedin</a>
+- <a href="https://fr.linkedin.com/in/damien-lebeau-995892192" target="_blank">Linkedin</a>
 - YouTube
 
 <a href="https://twitter.com/DamCodex" target="blank">
