@@ -14,7 +14,7 @@ Recently, I've been focusing on `developing websites`. Here are my latest projec
 
 A time tracker that lets you see what you're spending time on. Track your time spent on your projects and make adjustments.
 
-- <a href="#">SocialTweet</a> <img width="12" style="border-radius:50%" src="https://github.com/DamCodex/DamCodex/assets/85851416/11e53e5c-df6f-4991-bf21-9e34fa3dfa80">
+- <a href="#">SocialTweet</a> <img width="12" style="border-radius:4px" src="https://github.com/DamCodex/DamCodex/assets/85851416/11e53e5c-df6f-4991-bf21-9e34fa3dfa80">
 
 
 ### Soft Skills
