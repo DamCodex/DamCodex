@@ -28,15 +28,9 @@ Since a while, I specialize more in **Web Development** (Next/React, Node.js, Pr
   <img alt="postgresql" width="30" src="https://github.com/DamCodex/DamCodex/assets/85851416/46c8c608-a900-4b34-9c98-7380f2b09b5f">
 </a>
 
-tailwindcss
+[<img alt="tailwindcss" width="32" https://github.com/DamCodex/DamCodex/assets/85851416/fa4f5b06-a8e0-4e09-95d3-010bd3ff0880>](https://tailwindcss.com/)
 
-<a href="https://ui.shadcn.com/">
-  <img alt="shadcnui" width="32" src="https://github.com/DamCodex/DamCodex/assets/85851416/e2d9675c-f23a-4d46-bb35-25038dd3de0d">
-</a>
-
-<a href="https://chatgpt.com/">
-  <img alt="chatgpt" width="32" src="https://github.com/DamCodex/DamCodex/assets/85851416/475f9b29-0aeb-42ac-ac60-dfbc123ff2a6">
-</a>
+[<img alt="chatgpt" width="32" src="https://github.com/DamCodex/DamCodex/assets/85851416/e2d9675c-f23a-4d46-bb35-25038dd3de0d"](https://ui.shadcn.com/)
 
 [<img alt="chatgpt" width="32" src="https://github.com/DamCodex/DamCodex/assets/85851416/475f9b29-0aeb-42ac-ac60-dfbc123ff2a6">](https://chatgpt.com/)
 
