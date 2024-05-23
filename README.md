@@ -4,6 +4,9 @@ I'm Damien. A developer switching to `Web Development`. I've been interested by 
 
 I discovered coding at the age of `12-13` and coded my first projects in `C`. I followed my first tutorials on the `Site du Zéro` (now `OpenClassrooms`).
 
+In 2022, I created a sports betting application that enabled real-time betting on foreign bookmakers. which could retrieve millions of historical data points on quotation flows. Out of many millions of data
+
+
 Originally, I have a background more focused on **Data Engineer & Business Intelligence** (ETL, SSIS, SSAS, Power BI, Talend, Business Object)
 
 Since a while, I specialize more in **Web Development** (Next/React, Node.js, Prisma, Mongodb) & **Data Scraping** (Python, Selenium, Srapy, ...).
