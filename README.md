@@ -14,7 +14,7 @@ Recently, I've been focusing on `developing websites`. Here are my latest projec
 
 A time tracker that lets you see what you're spending time on. Track your time spent on your projects and make adjustments.
 
-- <a>SocialTweet</a>
+- <a href="#">SocialTweet</a>
 
 
 ### Soft Skills
