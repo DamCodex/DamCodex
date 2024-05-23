@@ -11,7 +11,7 @@ Since a while, I specialize more in **Web Development** (Next/React, Node.js, Pr
 ### Soft Skills
 
 <a href="https://nextjs.org/">
-  <img width="35" alt="nextjs" src="https://user-images.githubusercontent.com/85851416/235917861-0a8f84a9-cfb7-40e0-8a02-2fc2c4b6330b.png">
+  <img width="35" alt="nextjs" src="https://user-images.githubusercontent.com/85851416/235917861-0a8f84a9-cfb7-40e0-8a02-2fc2c4b6330b.png" />
 </a>
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -19,7 +19,7 @@ Since a while, I specialize more in **Web Development** (Next/React, Node.js, Pr
 </a>
 
 <a href="https://www.prisma.io/">
-  <img width="28" alt="prisma" src="https://user-images.githubusercontent.com/85851416/235924507-fa267870-3022-4b0b-a8a1-fbd0663379d0.png">
+  <img width="28" alt="prisma" src="https://user-images.githubusercontent.com/85851416/235924507-fa267870-3022-4b0b-a8a1-fbd0663379d0.png" />
 </a>
 
 <a href="https://supabase.com/" target="_blank" rel="noreferrer">
