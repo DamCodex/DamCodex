@@ -10,46 +10,31 @@ Since a while, I specialize more in **Web Development** (Next/React, Node.js, Pr
 
 ### Soft Skills
 
-
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img width="40" height="40" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>
-</a>
-
-<a href="https://www.prisma.io/">
-  <img width="28" alt="prisma" src="https://user-images.githubusercontent.com/85851416/235924507-fa267870-3022-4b0b-a8a1-fbd0663379d0.png" />
-</a>
-
-<a href="https://supabase.com/" target="_blank" rel="noreferrer">
-  <img width="35" alt="supabase" src="https://user-images.githubusercontent.com/85851416/235928096-25c1ed89-0dc9-4715-bbd0-e9f1ec6e4593.png" />
-</a>
-
-<a href="https://tailwindcss.com/">
-  <img width="35" alt="tailwindcss" src="https://user-images.githubusercontent.com/85851416/235928472-90c886c4-84f3-4c8a-9181-3ec79bb8011c.png" />
-</a>
-
-### Soft Skills
-
 <a href="https://nextjs.org/" target="_blank">
   <img alt="nextjs" width="32" src="https://github.com/DamCodex/DamCodex/assets/85851416/7c0127b1-050d-464d-8c6c-724fa8d22c9e">
 </a>
 
 <a href="https://reactjs.org/" target="_blank">
-  <img alt="reactjs" width="32" src="https://github.com/DamCodex/DamCodex/assets/85851416/a44a2607-5018-4487-b10e-eb418eda35cb">
+  <img alt="reactjs" width="34" src="https://github.com/DamCodex/DamCodex/assets/85851416/a44a2607-5018-4487-b10e-eb418eda35cb">
 </a>
 
-<a href="https://www.postgresql.org/" target="_blank">
-  <img alt="postgresql" width="30" src="https://github.com/DamCodex/DamCodex/assets/85851416/46c8c608-a900-4b34-9c98-7380f2b09b5f">
-</a>
+<img alt="typescript" width="32" src="(https://github.com/DamCodex/DamCodex/assets/85851416/7d176517-4df9-4056-acee-f35fa4c2fe66" >
 
-<a href="https://www.prisma.io/" target="_blank">
+<a href="https://www.prisma.io/">
   <img alt="prisma" width="32" src="https://github.com/DamCodex/DamCodex/assets/85851416/7c0b7543-d399-408f-8215-16148b965a96">
 </a>
 
-<a href="https://ui.shadcn.com/" target="_blank">
+<a href="https://www.postgresql.org/">
+  <img alt="postgresql" width="30" src="https://github.com/DamCodex/DamCodex/assets/85851416/46c8c608-a900-4b34-9c98-7380f2b09b5f">
+</a>
+
+tailwindcss
+
+<a href="https://ui.shadcn.com/">
   <img alt="shadcnui" width="32" src="https://github.com/DamCodex/DamCodex/assets/85851416/e2d9675c-f23a-4d46-bb35-25038dd3de0d">
 </a>
 
-<a href="https://chatgpt.com/" target="_blank">
+<a href="https://chatgpt.com/">
   <img alt="chatgpt" width="32" src="https://github.com/DamCodex/DamCodex/assets/85851416/475f9b29-0aeb-42ac-ac60-dfbc123ff2a6">
 </a>
 
