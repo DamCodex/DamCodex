@@ -4,7 +4,7 @@ I'm Damien. A developer switching to `Web Development`. I've been interested by 
 
 I discovered coding at the age of `12-13` and coded my first projects in `C`. At the time, I followed tutorials on the `Site du Zéro` (now `OpenClassrooms`).
 
-Then, I studied `Business Intelligence` to become a `Data Engineer`. I learned how to build data warehouses (ETL, SSIS, SSAS, Power BI, Talend, Business Object) and `track business activities` with performance indicators.
+Then, I studied `Business Intelligence` to become a `Data Engineer`. I learned how to manage information system data data warehouses (ETL, SSIS, Talend) and `track business activities` with performance indicators (SSAS, Power BI, Business Object).
 
 In 2022, I created a `sports betting application` that enabled `real-time betting` on foreign bookmakers. I've also found a way to retrieve `millions of historical data on closing market`, which were used to build `prediction models` to help betting.
 
