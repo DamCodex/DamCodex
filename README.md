@@ -8,8 +8,6 @@ Then, I continued my studies and specialized in `Data Engineer & Business Intell
 
 In 2022, I created a `sports betting application` that enabled `real-time betting` on foreign bookmakers. I've also found a way to retrieve `millions of historical data on closing market`, which were used to build `prediction models` to help betting.
 
-Originally, I have a background more focused on **Data Engineer & Business Intelligence** (ETL, SSIS, SSAS, Power BI, Talend, Business Object)
-
 Since a while, I specialize more in **Web Development** (Next/React, Node.js, Prisma, Mongodb) & **Data Scraping** (Python, Selenium, Srapy, ...).
 
 ### Soft Skills
