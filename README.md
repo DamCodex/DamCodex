@@ -13,15 +13,19 @@ Since a while, I specialize more in **Web Development** (Next/React, Node.js, Pr
 <a href="https://nextjs.org/">
   <img width="35" alt="nextjs" src="https://user-images.githubusercontent.com/85851416/235917861-0a8f84a9-cfb7-40e0-8a02-2fc2c4b6330b.png">
 </a>
+
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </a>
+
 <a href="https://www.prisma.io/">
   <img width="28" alt="prisma" src="https://user-images.githubusercontent.com/85851416/235924507-fa267870-3022-4b0b-a8a1-fbd0663379d0.png">
 </a>
+
 <a href="https://supabase.com/" target="_blank" rel="noreferrer">
   <img width="35" alt="supabase" src="https://user-images.githubusercontent.com/85851416/235928096-25c1ed89-0dc9-4715-bbd0-e9f1ec6e4593.png"> 
 </a>
+
 <a href="https://tailwindcss.com/">
   <img width="35" alt="tailwindcss" src="https://user-images.githubusercontent.com/85851416/235928472-90c886c4-84f3-4c8a-9181-3ec79bb8011c.png">
 </a>
