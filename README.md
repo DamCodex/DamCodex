@@ -10,6 +10,8 @@ In 2022, I created a `sports betting application` that enabled `real-time bettin
 
 Recently, I've been focusing on `developing websites`. Here are my latest projects :
 
+- <a https="https://worktrack-app.vercel.app/" target="_blank">WorkTack</a>
+
 ### Soft Skills
 
 [<img alt="nextjs" width="32" src="https://github.com/DamCodex/DamCodex/assets/85851416/7c0127b1-050d-464d-8c6c-724fa8d22c9e">](https://nextjs.org/)
