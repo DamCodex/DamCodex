@@ -30,9 +30,9 @@ Since a while, I specialize more in **Web Development** (Next/React, Node.js, Pr
   <img width="35" alt="tailwindcss" src="https://user-images.githubusercontent.com/85851416/235928472-90c886c4-84f3-4c8a-9181-3ec79bb8011c.png" />
 </a>
 
-![prisma-logo](https://github.com/DamCodex/DamCodex/assets/85851416/7c0b7543-d399-408f-8215-16148b965a96 | width=32)
+![prisma-logo](https://github.com/DamCodex/DamCodex/assets/85851416/7c0b7543-d399-408f-8215-16148b965a96.png | width=32)
 
-![postgresql-logo](https://github.com/DamCodex/DamCodex/assets/85851416/46c8c608-a900-4b34-9c98-7380f2b09b5f | width = 32)
+![postgresql-logo](https://github.com/DamCodex/DamCodex/assets/85851416/46c8c608-a900-4b34-9c98-7380f2b09b5f.png | width = 32)
 
 
 ### Connect with me:
