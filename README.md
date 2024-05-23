@@ -1,5 +1,10 @@
 ### Hi there 👋,
 
+I'm Damien. A developer transitioning to `Web Development`.
+
+
+### Hi there 👋,
+
 I'm `Damien`, passionate about `Entrepreneurship & Computer Development`. I like to challenge myself and discover new things in IT/Tech.
 
 Originally, I have a background more focused on **Data Engineer & Business Intelligence** (ETL, SSIS, SSAS, Power BI, Talend, Business Object)
