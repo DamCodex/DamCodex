@@ -1,6 +1,6 @@
 ### Hi there 👋,
 
-I'm Damien. A developer switching to `Web Development`. I've been interested by `Software Development` for a long time, and I've created few applications for side projects that are useful on daily.
+I'm Damien. A developer switching to `Web Development`. I've been interested by `Software Development` for a long time, and I've created few applications for side projects that are useful on my daily life.
 
 ### Hi there 👋,
 
