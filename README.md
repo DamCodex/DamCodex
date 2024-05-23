@@ -10,8 +10,6 @@ In 2022, I created a `sports betting application` that enabled `real-time bettin
 
 Recently, I've been focusing on `developing websites`. Here are my latest projects :
 
-- <a href="https://worktrack-app.vercel.app/" target="_blank"><img width="15" src="https://github.com/DamCodex/DamCodex/assets/85851416/5386a7ac-56b6-4da1-ac47-38d49ba3e81c"> WorkTack</a>
-
 - <a href="https://worktrack-app.vercel.app/" target="_blank">WorkTack</a> <img width="12" src="https://github.com/DamCodex/DamCodex/assets/85851416/5386a7ac-56b6-4da1-ac47-38d49ba3e81c">
 
 A time tracker that lets you see what you're spending time on. Allows you to track the time spent on your projects and make adjustments.
