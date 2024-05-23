@@ -1,4 +1,4 @@
-#### Hi there 👋,
+### Hi there 👋,
 
 I'm `Damien`, passionate about `Entrepreneurship & Computer Development`. I like to challenge myself and discover new things in IT/Tech.
 
