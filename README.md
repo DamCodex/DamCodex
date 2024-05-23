@@ -2,7 +2,7 @@
 
 I'm Damien. A developer switching to `Web Development`. I've been interested by `Software Development` for a long time, and I've created few applications for side projects that are useful on my daily life.
 
-I discovered coding at the age of 13-14 and coded my first projects in C.
+I discovered coding at the age of `13-14` and coded my first projects in `C`. I followed my first tutorials on the `Site du Zéro` (now OpenClassrooms).
 
 ### Hi there 👋,
 
