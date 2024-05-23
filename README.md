@@ -32,6 +32,8 @@ Since a while, I specialize more in **Web Development** (Next/React, Node.js, Pr
 
 ![prisma-logo](https://github.com/DamCodex/DamCodex/assets/85851416/7c0b7543-d399-408f-8215-16148b965a96.png  {width=32px})
 
+<img src="https://github.com/DamCodex/DamCodex/assets/85851416/7c0b7543-d399-408f-8215-16148b965a96" width="48">
+
 ![postgresql-logo](https://github.com/DamCodex/DamCodex/assets/85851416/46c8c608-a900-4b34-9c98-7380f2b09b5f.png | width = 32)
 
 
