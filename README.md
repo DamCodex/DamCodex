@@ -8,7 +8,7 @@ Then, I studied `Business Intelligence` to become a `Data Engineer`. I learned h
 
 In 2022, I created a `sports betting application` that enabled `real-time betting` on foreign bookmakers. I've also found a way to retrieve `millions of historical data on closing market`, which were used to build `prediction models` to help betting.
 
-Recently, I've been focusing on developing websites. Here are my latest projects :
+Recently, I've been focusing on `developing websites`. Here are my latest projects :
 
 ### Soft Skills
 
