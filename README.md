@@ -10,7 +10,10 @@ In 2022, I created a `sports betting application` that enabled `real-time bettin
 
 Recently, I've been focusing on `developing websites`. Here are my latest projects :
 
-- <a https="https://worktrack-app.vercel.app/" target="_blank">WorkTack</a>
+- <a href="https://worktrack-app.vercel.app/" target="_blank">WorkTack</a>
+
+An application that lets you track your time on what you're doing
+
 
 ### Soft Skills
 
