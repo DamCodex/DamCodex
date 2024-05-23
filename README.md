@@ -12,7 +12,7 @@ Recently, I've been focusing on `developing websites`. Here are my latest projec
 
 - <a href="https://worktrack-app.vercel.app/" target="_blank">WorkTack</a>
 
-An application that lets you track your time on what you're doing
+A time tracker that lets you see what you're spending time on. Allows you to track the time spent on your projects and make adjustments.
 
 
 ### Soft Skills
