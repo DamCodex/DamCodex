@@ -10,9 +10,6 @@ Since a while, I specialize more in **Web Development** (Next/React, Node.js, Pr
 
 ### Soft Skills
 
-<a href="https://nextjs.org/">
-  <img width="32" alt="nextjs" src="https://user-images.githubusercontent.com/85851416/235917861-0a8f84a9-cfb7-40e0-8a02-2fc2c4b6330b.png" />
-</a>
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img width="40" height="40" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>
@@ -30,16 +27,31 @@ Since a while, I specialize more in **Web Development** (Next/React, Node.js, Pr
   <img width="35" alt="tailwindcss" src="https://user-images.githubusercontent.com/85851416/235928472-90c886c4-84f3-4c8a-9181-3ec79bb8011c.png" />
 </a>
 
-<img alt="nextjs" src="https://github.com/DamCodex/DamCodex/assets/85851416/7c0127b1-050d-464d-8c6c-724fa8d22c9e" width="32">
+### Soft Skills
 
-<img alt="reactjs" src="https://github.com/DamCodex/DamCodex/assets/85851416/a44a2607-5018-4487-b10e-eb418eda35cb" width="32>
+<a href="https://nextjs.org/" target="_blank">
+  <img alt="nextjs" width="32" src="https://github.com/DamCodex/DamCodex/assets/85851416/7c0127b1-050d-464d-8c6c-724fa8d22c9e">
+</a>
 
-<img alt="postgresql" src="https://github.com/DamCodex/DamCodex/assets/85851416/46c8c608-a900-4b34-9c98-7380f2b09b5f" width="30">
+<a href="https://reactjs.org/" target="_blank">
+  <img alt="reactjs" width="32" src="https://github.com/DamCodex/DamCodex/assets/85851416/a44a2607-5018-4487-b10e-eb418eda35cb">
+</a>
 
-<img alt="prisma" src="https://github.com/DamCodex/DamCodex/assets/85851416/7c0b7543-d399-408f-8215-16148b965a96" width="32">
+<a href="https://www.postgresql.org/" target="_blank">
+  <img alt="postgresql" width="30" src="https://github.com/DamCodex/DamCodex/assets/85851416/46c8c608-a900-4b34-9c98-7380f2b09b5f">
+</a>
 
-<img alt="chatgpt" src="https://github.com/DamCodex/DamCodex/assets/85851416/475f9b29-0aeb-42ac-ac60-dfbc123ff2a6" width="32>
+<a href="https://www.prisma.io/" target="_blank">
+  <img alt="prisma" width="32" src="https://github.com/DamCodex/DamCodex/assets/85851416/7c0b7543-d399-408f-8215-16148b965a96">
+</a>
 
+<a href="https://ui.shadcn.com/" target="_blank">
+  <img alt="shadcnui" width="32" src="https://github.com/DamCodex/DamCodex/assets/85851416/e2d9675c-f23a-4d46-bb35-25038dd3de0d">
+</a>
+
+<a href="https://chatgpt.com/" target="_blank">
+  <img alt="chatgpt" width="32" src="https://github.com/DamCodex/DamCodex/assets/85851416/475f9b29-0aeb-42ac-ac60-dfbc123ff2a6">
+</a>
 
 ### Connect with me:
 
