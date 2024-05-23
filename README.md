@@ -2,6 +2,8 @@
 
 I'm Damien. A developer switching to `Web Development`. I've been interested by `Software Development` for a long time, and I've created few applications for side projects that are useful on my daily life.
 
+I discovered coding at the age of 13-14 and coded my first projects in C.
+
 ### Hi there 👋,
 
 I'm `Damien`, passionate about `Entrepreneurship & Computer Development`. I like to challenge myself and discover new things in IT/Tech.
