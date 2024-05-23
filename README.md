@@ -38,6 +38,8 @@ tailwindcss
   <img alt="chatgpt" width="32" src="https://github.com/DamCodex/DamCodex/assets/85851416/475f9b29-0aeb-42ac-ac60-dfbc123ff2a6">
 </a>
 
+[<img alt="chatgpt" width="32" src="https://github.com/DamCodex/DamCodex/assets/85851416/475f9b29-0aeb-42ac-ac60-dfbc123ff2a6">](https://chatgpt.com/)
+
 ### Connect with me:
 
 - <a href="https://fr.linkedin.com/in/damien-lebeau-995892192" target="_blank">Linkedin</a>
