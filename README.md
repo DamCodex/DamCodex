@@ -8,15 +8,6 @@ Then, I studied `Business Intelligence` to become a `Data Engineer`. I learned h
 
 In 2022, I created a `sports betting application` that enabled `real-time betting` on foreign bookmakers. I've found a way to retrieve `millions of historical data on closing market`, which were used to build `prediction models` to help betting.
 
-Recently, I've been focusing on `developing websites`. Here are my latest projects :
-
-- <a href="#" target="_blank">WorkTack</a> <img width="12" src="https://github.com/DamCodex/DamCodex/assets/85851416/5386a7ac-56b6-4da1-ac47-38d49ba3e81c">
-
-A time tracker that lets you see what you're spending time on. Track your time spent on your projects and make adjustments.
-
-- <a href="#">SocialTweet</a> <img width="12" src="https://github.com/DamCodex/DamCodex/assets/85851416/11e53e5c-df6f-4991-bf21-9e34fa3dfa80">
-
-
 ### Soft Skills
 
 [<img alt="nextjs" width="32" src="https://github.com/DamCodex/DamCodex/assets/85851416/7c0127b1-050d-464d-8c6c-724fa8d22c9e">](https://nextjs.org/)
@@ -28,9 +19,3 @@ A time tracker that lets you see what you're spending time on. Track your time s
 [<img alt="tailwindcss" width="32" src="https://github.com/DamCodex/DamCodex/assets/85851416/fa4f5b06-a8e0-4e09-95d3-010bd3ff0880">](https://tailwindcss.com/)
 [<img alt="chatgpt" width="32" src="https://github.com/DamCodex/DamCodex/assets/85851416/e2d9675c-f23a-4d46-bb35-25038dd3de0d">](https://ui.shadcn.com/)
 [<img alt="chatgpt" width="32" src="https://github.com/DamCodex/DamCodex/assets/85851416/475f9b29-0aeb-42ac-ac60-dfbc123ff2a6">](https://chatgpt.com/)
-
-### Connect with me:
-
-- <a href="https://fr.linkedin.com/in/damien-lebeau-995892192" target="_blank">Linkedin</a>
-- <a href="https://twitter.com/DamCodex" target="_blank">Twitter</a>
-- <a href="https://www.youtube.com/channel/UCVxPVdZxKSOyabENWJG6P9Q" target="_blank">YouTube</a>
